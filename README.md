@@ -1,4 +1,4 @@
-AI Software for Hand Gesture Recognition
+##AI Software for Hand Gesture Recognition
 Introduction
 Hand gesture recognition is a cutting-edge technology that enables computers to understand human hand signals through the integration of machine learning and computer vision. This project aims to develop a model capable of recognizing various hand gestures in real time, providing a versatile solution for human-computer interaction, sign language recognition, gaming control, and educational tools.
 
