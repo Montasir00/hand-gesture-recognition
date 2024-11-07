@@ -42,9 +42,10 @@ Ensure you have the necessary libraries installed. You can create a virtual envi
 - `tensorflow` (for the model)
 
 To install these dependencies, run the following command:
-
 ```bash
 pip install opencv-python cvzone tensorflow
+```
+
 ### 2. Data Collection
 - Run the data collection script to capture hand gesture images. This script will use your webcam to collect data and save it as images in a folder named after the gesture.
 Press the 's' key to save images of detected hand gestures. Each saved image is timestamped to prevent overwriting.
